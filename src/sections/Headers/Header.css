@@ -1,0 +1,38 @@
+#brand-name-container {
+  background-color: #216e74;
+  margin: 0px;
+  padding: 25px 150px;
+}
+
+#navmenu-container {
+  background-color: #b0bec5;
+  margin: 0px;
+  padding: 10px 150px;
+}
+
+#search-bar {
+  padding-right: 16px;
+}
+
+#search-and-contact {
+  justify-content: end;
+  align-items: center;
+}
+
+#navmenu {
+  justify-content: space-between;
+}
+
+/* ------------------------------------------------- */
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-container {
+  align-items: center;
+}

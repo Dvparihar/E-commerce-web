@@ -1,0 +1,28 @@
+.footer-container {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #216e74;
+}
+
+#newsletter-container {
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#newsletter-input {
+  width: 45%;
+}
+
+#footermenu {
+  margin-inline: auto;
+  justify-content: space-between;
+}
+
+#copyright-container {
+  justify-content: space-between;
+  margin-inline: auto;
+}
